@@ -1,0 +1,11 @@
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+D:\Challenge of OZ\EnginBaba\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
